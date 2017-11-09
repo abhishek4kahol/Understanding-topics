@@ -1,6 +1,6 @@
 # Understanding-topics
 
-1. **[Understanding JavaScript and EcmaScript](#understanding-javaScript-and-ecmaScript)**
+1. **[Understanding JavaScript and EcmaScript](#understanding-javascript-and-ecmascript)**
 2. **[Server-side and Client-side rendering](#server-side-and-client-side-rendering])**
 
 ## Understanding JavaScript and EcmaScript
