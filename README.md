@@ -41,7 +41,7 @@
 -------------------------------------------------------------------------------------------------------------------------------
 
 
-## Server-side and Client-side rendering
+## Server side and Client side rendering
 
 ### Server-side rendering
 * Server-side rendering is the most common method for displaying information onto the screen. It works by converting HTML files in the server into usable information for the browser.
