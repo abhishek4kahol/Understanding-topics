@@ -27,6 +27,8 @@
 
 * If a new edition of ECMAScript comes out, JavaScript engines do not integrate the entire update at one go. They incorporate the new ECMAScript features incrementally
 
+
+
 ### ECMAScript 6
 
 * It is the sixth edition of the ECMA-262 standard, and features major changes and improvements to the ECMAScript specification.
@@ -89,3 +91,5 @@
 * Low SEO if not implemented correctly.
 * Initial load might require more time.
 * In most cases, requires an external library.
+
+> whole info is taken from medium article link [here](https://medium.freecodecamp.org/what-exactly-is-client-side-rendering-and-hows-it-different-from-server-side-rendering-bd5c786b340d)
