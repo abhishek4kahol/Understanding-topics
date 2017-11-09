@@ -1,8 +1,9 @@
 # Understanding-topics
 
+1. **[Understanding JavaScript and EcmaScript](#understanding-javaScript-and-ecmaScript)**
+2. **[Server-side and Client-side rendering](#server-side-and-client-side-rendering])**
 
-
-1. ## Understanding JavaScript and EcmaScript
+## Understanding JavaScript and EcmaScript
 
 * Ecma International : An organization that creates standards for technologies.
 
@@ -40,7 +41,7 @@
 -------------------------------------------------------------------------------------------------------------------------------
 
 
-2. ## Server-side and Client-side rendering
+## Server-side and Client-side rendering
 
 ### Server-side rendering
 * Server-side rendering is the most common method for displaying information onto the screen. It works by converting HTML files in the server into usable information for the browser.
