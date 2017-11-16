@@ -1,7 +1,7 @@
 # Understanding-topics
 
 1. **[Understanding JavaScript and EcmaScript](#understanding-javascript-and-ecmascript)**
-2. **[Server-side and Client-side rendering](#server-side-and-client-side-rendering])**
+2. **[Server side and Client side rendering](#server-side-and-client-side-rendering])**
 
 ## Understanding JavaScript and EcmaScript
 
@@ -94,3 +94,8 @@
 * In most cases, requires an external library.
 
 > whole info is taken from medium article link [here](https://medium.freecodecamp.org/what-exactly-is-client-side-rendering-and-hows-it-different-from-server-side-rendering-bd5c786b340d)
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
+
